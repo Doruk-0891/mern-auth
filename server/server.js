@@ -8,7 +8,7 @@ import userRouter from "./routes/user.routes.js";
 
 const app = express();
 const port = process.env.PORT || 4000;
-const allowedOrigins = ['http://localhost:5173'];
+const allowedOrigins = ['https://mern-auth-psi-pink.vercel.app/'];
 
 connectDB();
 
