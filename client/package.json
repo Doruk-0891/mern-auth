@@ -9,6 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+  "proxy": "https://mern-auth-mqv8.onrender.com",
   "dependencies": {
     "@tailwindcss/vite": "^4.0.1",
     "axios": "^1.7.9",
